@@ -131,3 +131,23 @@ a:hover {
   }
 }
 
+.guiding-question {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-top: 30px;
+  color: #2b3a2c;
+}
+
+.question-image {
+  text-align: center;
+  margin: 25px 0;
+}
+
+.question-image img {
+  width: 85%;
+  max-width: 700px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+
