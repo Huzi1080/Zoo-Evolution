@@ -18,6 +18,11 @@ h1, h2, h3 {
   background: #2e5e4e;
   display: flex;
   gap: 20px;
+  justify-content: center; 
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
 }
 
 .directory li a {
